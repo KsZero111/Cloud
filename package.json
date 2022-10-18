@@ -9,14 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vRyanv/toy-shop-atn.git"
+    "url": "git+https://github.com/KsZero111/Cloud.git"
   },
   "author": "Khanh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vRyanv/toy-shop-atn/issues"
+    "url": "https://github.com/KsZero111/Cloud/issues"
   },
-  "homepage": "https://github.com/vRyanv/toy-shop-atn#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "cookie-parser": "^1.4.6",
